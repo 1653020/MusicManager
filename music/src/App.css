@@ -1,0 +1,22 @@
+.App {
+    height: 100%;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.header {
+    height: auto;
+    background: rgb(206, 206, 206);
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    box-shadow: 0 4.8px 2.2px rgba(0, 0, 0, 0.017), 0 11.6px 5.3px rgba(0, 0, 0, 0.024), 0 21.9px 10px rgba(0, 0, 0, 0.03), 0 39.1px 17.9px rgba(0, 0, 0, 0.036), 0 73.1px 33.4px rgba(0, 0, 0, 0.043), 0 175px 80px rgba(0, 0, 0, 0.06);
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
