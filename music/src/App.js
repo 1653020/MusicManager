@@ -4,6 +4,7 @@ import en from './translations/en/common.json'
 import vn from './translations/vn/common.json'
 import Header from './layout/header'
 import Footer from './layout/footer'
+import Body from './layout/body'
 
 function App() {
   //language init
@@ -21,8 +22,7 @@ function App() {
   return (
     <div className="App">
       <Header language={language} changeLanguage={changeLanguage}></Header>
-
-
+      <Body language={language}/>
       <Footer language={language}></Footer>
     </div>
   );

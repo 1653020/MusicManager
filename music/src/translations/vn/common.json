@@ -1,5 +1,10 @@
 {
     "language": "VN",
     "title": "Nhạc",
-    "footer": "Ⓒ Copyright 2020, Ứng dụng nghe nhạc VH"
+    "footer": "Ⓒ Copyright 2020, Ứng dụng nghe nhạc VH",
+    "play" : "Bắt Đầu",
+    "pause": "Dừng",
+    "loop": "Lặp",
+    "mute": "Tắt Tiếng",
+    "volume": "Âm Lượng"
 }

@@ -1,5 +1,10 @@
 {
     "language": "EN",
     "title": "Music Manager",
-    "footer": "Ⓒ Copyright 2020, Music Manager VH"
+    "footer": "Ⓒ Copyright 2020, Music Manager VH",
+    "play" : "Play",
+    "pause": "Pause",
+    "loop": "Loop",
+    "mute": "Mute",
+    "volume": "Volume"
 }
